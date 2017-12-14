@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/basic-360-video.unity
+  isLoaded: 1
+  isActive: 1
